@@ -43,6 +43,7 @@ var config = {
         provider: 'insight',
         url: 'https://explorer.btcprivate.org:443',
       },
+/*
       testnet: {
         provider: 'insight',
         url: 'https://explorer.testnet.btcprivate.org:443',
@@ -62,6 +63,7 @@ var config = {
         url: 'https://test-bch-insight.bitpay.com:443',
         addressFormat: 'cashaddr',  // copay, cashaddr, or legacy
       },
+*/
  
     },
   },
